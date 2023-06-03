@@ -1,0 +1,1 @@
+Read me del proyecto deprueba para git en VSCODE
